@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Zishan Ahamed Thandar!
+# Hi there 🤖, I'm Zishan Ahamed Thandar!
 
 ### 💻 Web App Pentester | 🕵️‍♂️ Bug Bounty Hunter | 🎮 CTF Player | 📜 Open-Source Contributor
 
