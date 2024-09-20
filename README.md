@@ -49,11 +49,8 @@ I'm a passionate Web Application Penetration Tester and Bug Bounty Hunter from K
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZishanAdThandar&size_weight=0.5&count_weight=0.5&theme=merko">
-  <br>
-<img src="https://streak-stats.demolab.com?user=ZishanAdThandar&theme=dark&date_format=%5BY%20%5DM%20j">
-</p>
+![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZishanAdThandar&size_weight=0.5&count_weight=0.5&theme=merko)
+
 
 ---
 
