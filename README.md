@@ -42,6 +42,7 @@ I'm a passionate Web Application Penetration Tester and Bug Bounty Hunter from K
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white) 
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793d1?logo=archlinux&logoColor=white) 
   ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white) 
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white) 
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
 ---
