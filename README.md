@@ -1,82 +1,163 @@
-# Hi there 🤖, I'm Zishan Ahamed Thandar!
-### 💻 Web App Pentester | 🕵️‍♂️ Bug Bounty Hunter | 🎮 CTF Player | 📜 Open-Source Contributor
+<!-- Cyberpunk Neon Terminal README -->
 
-I'm a passionate Web Application Penetration Tester and Bug Bounty Hunter from Kolkata, India. I specialize in identifying and resolving vulnerabilities, securing applications, and contributing to the security community. I'm also an active CTF player and contributor to open-source projects.
----
-![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=22&pause=1000&color=FFFFFF&background=0D1117&random=true&width=452&height=35&lines=Control+is+an+illusion.;I+am+a+vigilante+hacker.;Power+belongs+to+the+people.;The+world+is+a+mess.;Delete+me+from+existence.;You're+not+seeing+what's+there.;It's+happening%2C+it%E2%80%99s+real.;I'm+only+human+after+all.;You%E2%80%99re+part+of+something+bigger.;I+see+the+flaws%2C+society.;I+can%E2%80%99t+be+owned.;You're+not+free%2C+are+you%3F;We+are+all+just+puppets.;The+truth+is+out+there.;Revolution+needs+to+happen+now.;There+is+no+turning+back.;We%E2%80%99re+the+ones+in+control.;It's+all+in+your+head.;I+don't+want+your+help.;They+own+the+entire+system.;I+can%E2%80%99t+trust+anyone+anymore.;What%E2%80%99s+the+point+of+anything%3F;I'm+tired+of+the+lies.;Do+you+see+what%E2%80%99s+happening%3F;Are+you+a+one+or+a+zero%3F)
----
+<h1 align="center">
+  <span style="color:#00ff88;">Zishan Ahamed Thandar</span>
+</h1>
 
-## 🏆 Achievements
-
-- 🥇 **Bug Bounty Hall of Fame:** Google, Oracle, AOL, Mail.ru, XiaoMi, ECCouncil, NCIIPC, Zoho, Shaadi.com, GeeksForGeeks, and many more!
-- 🌟 Featured in multiple **Bug Bounty Programs** and **Security Challenge** leaderboards.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=650&lines=Offensive+Security+Expert;Web+%26+API+Penetration+Tester;Bug+Bounty+Hunter+(150%2B+Findings);Active+Directory+Exploitation+Specialist;CTF+Player+%7C+Top+5%25+TryHackMe;Security+Tools+Used+By+500%2B+Professionals;Helping+Companies+Fix+Critical+Vulnerabilities">
+</p>
 
 ---
 
-## 🔧 Technologies & Tools
+## ⚡ Cyberpunk Skill Badges
 
-- **Languages:**  
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-
-- **Pentesting Tools:**  
-  ![BurpSuite](https://img.shields.io/badge/-BurpSuite-ff4a1c?logo=burp-suite&logoColor=white) 
-  ![Metasploit](https://img.shields.io/badge/-Metasploit-3c9bcf?logo=metasploit&logoColor=white) 
-  ![NMap](https://img.shields.io/badge/-NMap-005f87?logo=nmap&logoColor=white) 
-  ![Nuclei](https://img.shields.io/badge/-Nuclei-1e90ff?logo=nuclei&logoColor=white) 
-  ![Nessus](https://img.shields.io/badge/-Nessus-00aaff?logo=tenable&logoColor=white) 
-  ![Nikto](https://img.shields.io/badge/-Nikto-e02c2d?logo=nikto&logoColor=white)
-  ![John](https://img.shields.io/badge/-John%20The%20Ripper-000000?logo=johntheripper&logoColor=white)
-  ![Hydra](https://img.shields.io/badge/-Hydra-ff6347?logo=hydra&logoColor=white)
-  ![Bloodhound](https://img.shields.io/badge/-Bloodhound-0055ff?logo=bloodhound&logoColor=white) 
-  ![Crackmapexec](https://img.shields.io/badge/-Crackmapexec-800000?logo=crackmapexec&logoColor=white)
-  ![smbclient](https://img.shields.io/badge/-smbclient-1d6dc7?logo=samba&logoColor=white) 
-  ![Evil-WinRM](https://img.shields.io/badge/-Evil--WinRM-ff4500?logo=windows&logoColor=white)
-
-- **Platforms:**  
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white) 
-  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793d1?logo=archlinux&logoColor=white) 
-  ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white) 
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white) 
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Offensive%20Security-Expert-00ff88?style=for-the-badge&logo=kalilinux&logoColor=00ff88">
+  <img src="https://img.shields.io/badge/Web%20Pentesting-Specialist-00eaff?style=for-the-badge&logo=windows-terminal&logoColor=00eaff">
+  <img src="https://img.shields.io/badge/API%20Security-Tester-ff00ff?style=for-the-badge&logo=fastapi&logoColor=ff00ff">
+  <img src="https://img.shields.io/badge/Bug%20Bounty-150%2B%20Findings-00ffaa?style=for-the-badge&logo=hackerone&logoColor=00ffaa">
+  <img src="https://img.shields.io/badge/CTF-Top%205%25%20TryHackMe-00ffcc?style=for-the-badge&logo=tryhackme&logoColor=00ffcc">
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🧩 About Me
 
-![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZishanAdThandar&size_weight=0.5&count_weight=0.5&theme=merko)
+I am an **Offensive Security Professional** with 6+ years of experience in:
 
+- Web & API Penetration Testing  
+- Active Directory Attacks & Internal Recon  
+- Vulnerability Research & Exploitation  
+- Bug Bounty (150+ valid findings)  
+- CTFs (Top 5% TryHackMe, ex–Top 10 HTB)  
+- Security Tool Development (500+ users)
 
----
-
-## 📚 Notable Projects
-
-- 🔨 [**Hackify (Bash)**](https://github.com/ZishanAdThandar/hackify) – A bash tool for automation
-- 🌐 [**Burp Proxy Switch Toggle**](https://github.com/ZishanAdThandar/burptoggle) – Firefox addon to toggle proxy
-- 📘 [**Pentester Guide**](https://github.com/ZishanAdThandar/pentest) – Resources for pentesting
-
----
-
-## 🎯 Certifications
-
-- ✅ **EC-Council Ethical Hacking Essentials**
-- 🛡️ **Peritus Burp Suite Mastery**
-- 🎓 **Sololearn (Python, Java, PHP, HTML, CSS, jQuery)**
+Focused on **high-impact vulnerability discovery**, practical exploitation, and helping companies fix real security issues before attackers find them.
 
 ---
 
-## 🌐 Connect with me
+## 🧬 Core Expertise
 
-- 🌍 **Portfolio:** [zishanadthandar.github.io](https://zishanadthandar.github.io)
-- 💼 **LinkedIn:** [ZishanAdThandar](https://linkedin.com/in/ZishanAdThandar)
-- 🐞 **HackerOne:** [ZishanAdThandar](https://hackerone.com/ZishanAdThandar)
-- 🐙 **GitHub:** [ZishanAdThandar](https://github.com/ZishanAdThandar)
+### **Offensive Security**
+`Web Pentesting` • `API Security` • `AD Attacks` • `Privilege Escalation`  
+`Business Logic Attacks` • `Auth & Access Control Exploitation`
+
+### **Primary Toolset**
+`Burp Suite` • `Nmap` • `Metasploit` • `Nessus` • `Bloodhound`  
+`CrackMapExec` • `Impacket` • `Hydra` • `John` • `Nuclei`
+
+### **Operating Systems**
+`Kali Linux` • `Arch Linux` • `Debian` • `Ubuntu` • `Windows`
+
+### **Programming**
+`Python` • `Bash` • `PHP` • `JavaScript` • `MySQL` • `HTML/CSS`
 
 ---
 
-Thanks for visiting my profile! 😊
+## 🏆 Hall of Fame Mentions
+
+Google • Oracle • AOL • Mail.ru • XiaoMi • Zoho • NCIIPC • Shaadi.com •  
+GeeksForGeeks • EC-Council • PostNL • EUR.nl • Many more…
+
+---
+
+## 🎖 Certifications
+
+- **CRTA** – CyberWarFare Labs  
+- **C3SA** – CyberWarFare Labs  
+- **Burp Suite Mastery** – Peritus Training  
+- **Ethical Hacking Essentials** – EC-Council  
+- **Sololearn & Codecademy** – Python, Java, PHP, HTML, CSS, Git
+
+---
+
+# 📚 Ebooks, Notes & Checklists (Sales Section)
+
+### These products are extracted from your website and Topmate profile:
+
+---
+
+### **📘 Bug Bounty Web Security Checklist**  
+A step-by-step practical workflow for Web App testing.  
+**Link:** https://topmate.io/zishanadthandar/1523473
+
+---
+
+### **📡 OSWP Notes eBook**  
+Wireless security & Wi-Fi exploitation notes for OSWP learners.  
+**Link:** https://topmate.io/zishanadthandar/1729436
+
+---
+
+### **🛡 CRTA Red Team Notes**  
+Concise internal red team notes for Windows & AD testing.  
+**Link:** https://topmate.io/zishanadthandar/1734113
+
+---
+
+<p align="center">
+  <a href="https://topmate.io/zishanadthandar" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Products-00ff88?style=for-the-badge&logo=bookstack&logoColor=111">
+  </a>
+</p>
+
+---
+
+# 🚀 High-Impact Security Tools (Follower Magnets)
+
+### 🔹 **Hacker Proxy Pro**  
+Firefox addon for instant Burp Suite / TOR proxy switching.  
+➡️ https://github.com/ZishanAdThandar/HackerProxyPro
+
+---
+
+### 🔹 **Hackify (Bash)**  
+One-command pentest environment setup for Debian systems.  
+➡️ https://github.com/ZishanAdThandar/hackify
+
+---
+
+### 🔹 **Pentester Guide (OffSec Roadmap)**  
+Structured guide for tools, labs, certs, scripts, career path.  
+➡️ https://github.com/ZishanAdThandar/pentest
+
+---
+
+### 🔹 **WebsiteDorkerPro (Python OSINT Tool)**  
+Automated search/dork tool for reconnaissance operations.  
+➡️ https://github.com/ZishanAdThandar/WebsiteDorkerPro
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZishanAdThandar&theme=merko&layout=compact&hide_border=true" width="380">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- **Portfolio:** https://zishanadthandar.github.io  
+- **LinkedIn:** https://linkedin.com/in/zishanadthandar  
+- **HackerOne:** https://hackerone.com/ZishanAdThandar  
+- **HackTheBox:** https://app.hackthebox.com/profile/4477  
+- **TryHackMe:** https://tryhackme.com/p/ZishanAdThandar  
+
+---
+
+# 🧬 Cyberpunk Terminal Footer
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=550&lines=Secure+Channel+Terminated...;Logging+Activity...;Connection+Closed.">
+</p>
+
+<p align="center">
+  <span style="color:#00ff88; font-weight:600;">
+    Crafted in a dark terminal · Powered by neon · Built for cybersecurity.
+  </span>
+</p>
+
+<p align="center">⭐ Star & Follow to support my tools, research, and upcoming releases.</p>
