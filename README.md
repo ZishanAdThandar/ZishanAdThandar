@@ -144,11 +144,9 @@ Automated search/dork tool for reconnaissance operations.
 
 ## 🌐 Connect With Me
 
-- **Portfolio:** https://zishanadthandar.github.io  
-- **LinkedIn:** https://linkedin.com/in/zishanadthandar  
-- **HackerOne:** https://hackerone.com/ZishanAdThandar  
-- **HackTheBox:** https://app.hackthebox.com/profile/4477  
-- **TryHackMe:** https://tryhackme.com/p/ZishanAdThandar  
+- **Linktree:** https://zishanhack.com/links
+- **Portfolio:** https://zishanhack.com/about
+- **Services:** https://zishanhack.com/services
 
 ---
 
