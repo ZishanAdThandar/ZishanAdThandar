@@ -24,7 +24,7 @@
 
 ## 🧩 About Me
 
-I am an **Offensive Security Professional** with 6+ years of experience in:
+I am an **Offensive Security Professional** with 7+ years of experience in:
 
 - Web & API Penetration Testing  
 - Active Directory Attacks & Internal Recon  
@@ -66,8 +66,6 @@ GeeksForGeeks • EC-Council • PostNL • EUR.nl • Many more…
 
 - **CRTA** – CyberWarFare Labs  
 - **C3SA** – CyberWarFare Labs  
-- **Burp Suite Mastery** – Peritus Training  
-- **Ethical Hacking Essentials** – EC-Council  
 - **Sololearn & Codecademy** – Python, Java, PHP, HTML, CSS, Git
 
 ---
@@ -80,24 +78,30 @@ GeeksForGeeks • EC-Council • PostNL • EUR.nl • Many more…
 
 ### **📘 Bug Bounty Web Security Checklist**  
 A step-by-step practical workflow for Web App testing.  
-**Link:** https://topmate.io/zishanadthandar/1523473
+**Link:** https://zishanhack.com/products/web-security-checklist
 
 ---
 
 ### **📡 OSWP Notes eBook**  
 Wireless security & Wi-Fi exploitation notes for OSWP learners.  
-**Link:** https://topmate.io/zishanadthandar/1729436
+**Link:** https://zishanhack.com/products/oswp-notes
 
 ---
 
 ### **🛡 CRTA Red Team Notes**  
 Concise internal red team notes for Windows & AD testing.  
-**Link:** https://topmate.io/zishanadthandar/1734113
+**Link:** https://zishanhack.com/products/crta
+
+---
+
+### **☣️ OSCP Obsidian notes**  
+Concise internal red team notes for Windows & AD testing.  
+**Link:** https://zishanhack.com/products/oscp-bundle
 
 ---
 
 <p align="center">
-  <a href="https://topmate.io/zishanadthandar" target="_blank">
+  <a href="https://zishanhack.com" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Products-00ff88?style=for-the-badge&logo=bookstack&logoColor=111">
   </a>
 </p>
