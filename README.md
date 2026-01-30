@@ -134,14 +134,6 @@ Automated search/dork tool for reconnaissance operations.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZishanAdThandar&theme=merko&layout=compact&hide_border=true" width="380">
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - **Linktree:** https://zishanhack.com/links
