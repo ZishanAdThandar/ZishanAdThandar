@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://zishanhack.com">
-    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff88">
+    <img src="https://img.shields.io/badge/Website-fffff8?style=for-the-badge&logo=firefoxbrowser&logoColor=111111">
   </a>
   <a href="https://github.com/ZishanAdThandar/pentest">
-    <img src="https://img.shields.io/badge/Pentester_Guide-111111?style=for-the-badge&logo=github&logoColor=00ff88">
+    <img src="https://img.shields.io/badge/Pentester_Guide-fffff8?style=for-the-badge&logo=github&logoColor=111111">
   </a>
   <a href="https://zishanhack.com/services">
-    <img src="https://img.shields.io/badge/Security_Services-111111?style=for-the-badge&logo=shield&logoColor=00ff88">
+    <img src="https://img.shields.io/badge/Security_Services-fffff8?style=for-the-badge&logo=circle&logoColor=111111">
   </a>
 </p>
 
