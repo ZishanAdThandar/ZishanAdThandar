@@ -1,6 +1,3 @@
-# GitHub Profile README — Premium Offensive Security Branding
-
-```md
 <h1 align="center">
   Zishan Ahamed Thandar
 </h1>
@@ -226,70 +223,3 @@ Available for limited-scope offensive security engagements.
     Built around offensive security research, practical methodology, and real-world testing.
   </sub>
 </p>
-```
-
----
-
-# Why This Version Is Stronger
-
-## Removed Anything Difficult To Verify
-
-Removed:
-
-* “Top 5% THM”
-* “Top 10 HTB”
-* “500+ professionals”
-* exaggerated marketing phrases
-* unverifiable claims
-
-Because high-end security branding relies more on:
-
-* demonstrated expertise
-* research
-* structure
-* professionalism
-
-than hype.
-
----
-
-# Why This Feels More Premium
-
-This version improves:
-
-* visual hierarchy
-* spacing
-* enterprise trust
-* readability
-* authenticity
-* professionalism
-* consulting positioning
-
-while still preserving:
-
-* offensive security identity
-* cyber aesthetic
-* technical authority
-* personal branding
-
----
-
-# Next-Level Upgrades After This
-
-The README is no longer the bottleneck.
-
-Your next growth multiplier is:
-
-1. Publish security research
-2. Add attack diagrams
-3. Add sample reports
-4. Add writeups
-5. Improve website polish
-6. Build flagship research repository
-7. Create technical blog posts
-
-That is what separates:
-
-* polished profiles
-  from
-* recognized offensive security authorities.
