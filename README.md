@@ -1,147 +1,295 @@
+# GitHub Profile README — Premium Offensive Security Branding
+
+```md
 <h1 align="center">
-  <span style="color:#00ff88;">Zishan Ahamed Thandar</span>
+  Zishan Ahamed Thandar
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Consultant+%26+Pentester;Web+%26+API+Security+Specialist;Bug+Bounty+Hunter+(150%2B+Valid+Findings);Active+Directory+Security+Testing;Security+Tools+Used+by+500%2B+Professionals;Helping+Companies+Prevent+Security+Breaches">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=00FF88&center=true&vCenter=true&width=820&lines=Offensive+Security+Researcher;Web+%26+API+Security+Assessments;Active+Directory+Security+Testing;Security+Research+%26+Open-Source+Tooling;Manual-First+Pentesting+Methodology">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20%26%20API%20Pentesting-ffeaff?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cybersecurity%20Consultant-ffff88?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Offensive%20Security%20Researcher-ffffff?style=for-the-badge">
-</p>
-
-
-## 🧩 whoami ?
-
-I am a **Cybersecurity Consultant and Offensive Security Specialist** with 7+ years of real-world experience helping organizations identify and remediate **high-impact security vulnerabilities** using real attacker techniques before they are abused in the wild.
-
-My approach is **attacker-driven and manual-first**, focused on finding what automated scanners miss and translating technical risk into **clear, actionable remediation** for engineering teams.
-
-### Highlights
-- 150+ valid real-world vulnerability disclosures  
-- Web & API penetration testing for modern applications  
-- Active Directory attacks, internal recon & privilege escalation  
-- Top 5% TryHackMe, ex-Top 10 Hack The Box  
-- Built open-source security tools trusted by 500+ professionals  
-
----
-
-## 🛠 How I Help Organizations
-
-- Web & API Penetration Testing (manual, attacker-driven)  
-- Active Directory & Internal Network Assessments  
-- Pre-launch & Pre-production Security Reviews  
-- Bug Bounty Program Validation & Support  
-- Clear, developer-friendly remediation guidance  
-
----
-
-## 🧬 Core Expertise
-
-### **Offensive Security**
-`Web Pentesting` • `API Security` • `Active Directory Attacks`  
-`Privilege Escalation` • `Business Logic Flaws`  
-`Authentication & Access Control Exploitation`
-
-### **Primary Toolset**
-`Burp Suite` • `Nmap` • `Metasploit` • `Nessus` • `BloodHound`  
-`CrackMapExec` • `Impacket` • `Hydra` • `John` • `Nuclei`
-
-### **Operating Systems**
-`Kali Linux` • `Arch Linux` • `Debian` • `Ubuntu` • `Windows`
-
-### **Programming**
-`Python` • `Bash` • `PHP` • `JavaScript` • `MySQL` • `HTML/CSS`
-
----
-
-## 🏆 Responsible Disclosure & Trust Signals
-
-Recognized by organizations including:
-
-Google • Oracle • AOL • Mail.ru • Xiaomi • Zoho • NCIIPC • Shaadi.com  
-GeeksForGeeks • EC-Council • PostNL • EUR.nl • and many more
-
----
-
-## 🎖 Certifications
-
-- **CRTA** – CyberWarFare Labs  
-- **C3SA** – CyberWarFare Labs  
-- Programming Certifications – Python, Java, PHP, HTML, CSS, Git  
-
----
-
-## 📚 Practical Security Playbooks & eBooks
-
-Professional resources built from real-world testing experience.
-
-### 📘 **Bug Bounty Web Security Checklist**
-Structured methodology covering real attack paths  
-➡️ https://zishanhack.com/products/web-security-checklist
-
-### 📡 **OSWP Notes eBook**
-Wireless security & Wi-Fi exploitation notes  
-➡️ https://zishanhack.com/products/oswp-notes
-
-### 🛡 **CRTA Red Team Notes**
-Windows & Active Directory internal testing notes  
-➡️ https://zishanhack.com/products/crta
-
-### ☣️ **OSCP Obsidian Notes**
-Organized OSCP-focused red team knowledge base  
-➡️ https://zishanhack.com/products/oscp-bundle
-
-<p align="center">
-  <a href="https://zishanhack.com" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Products-00ff88?style=for-the-badge&logo=bookstack&logoColor=111">
+  <a href="https://zishanhack.com">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff88">
+  </a>
+  <a href="https://github.com/ZishanAdThandar/pentest">
+    <img src="https://img.shields.io/badge/Pentester_Guide-111111?style=for-the-badge&logo=github&logoColor=00ff88">
+  </a>
+  <a href="https://zishanhack.com/services">
+    <img src="https://img.shields.io/badge/Security_Services-111111?style=for-the-badge&logo=shield&logoColor=00ff88">
   </a>
 </p>
 
 ---
 
-## 🚀 High-Impact Security Tools
+## Offensive Security Research & Consulting
 
-### 🔹 Hacker Proxy Pro
-Instant Burp Suite / TOR proxy switching (Firefox)  
-➡️ https://github.com/ZishanAdThandar/HackerProxyPro
+I specialize in attacker-driven security assessments focused on identifying real-world attack paths across modern web applications, APIs, authentication systems, and Active Directory environments.
 
-### 🔹 Hackify
-One-command pentesting environment setup  
-➡️ https://github.com/ZishanAdThandar/hackify
+My work focuses on:
 
-### 🔹 Pentester Guide
-Complete offensive security roadmap  
+- Web Application Penetration Testing
+- API Security Assessments
+- Authentication & Access Control Testing
+- Active Directory Security Reviews
+- Privilege Escalation & Internal Reconnaissance
+- Security Research & Methodology Development
+
+I prefer manual testing methodologies designed to uncover high-impact vulnerabilities often missed by automated tooling.
+
+---
+
+## Core Expertise
+
+### Offensive Security
+
+`Web Pentesting`
+`API Security`
+`Active Directory`
+`Privilege Escalation`
+`Authentication Testing`
+`Access Control Reviews`
+`Business Logic Testing`
+`Reconnaissance`
+
+### Tooling & Platforms
+
+`Burp Suite`
+`Nmap`
+`BloodHound`
+`Impacket`
+`CrackMapExec`
+`Nessus`
+`Metasploit`
+`Nuclei`
+`Hydra`
+`John the Ripper`
+
+### Operating Systems
+
+`Kali Linux`
+`Arch Linux`
+`Debian`
+`Ubuntu`
+`Windows`
+
+### Programming & Scripting
+
+`Python`
+`Bash`
+`JavaScript`
+`PHP`
+`MySQL`
+`HTML/CSS`
+
+---
+
+## Responsible Disclosure
+
+Recognized by organizations including:
+
+Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.com • EC-Council • GeeksForGeeks • PostNL • EUR.nl
+
+---
+
+## Certifications
+
+- CRTA — CyberWarFare Labs
+- C3SA — CyberWarFare Labs
+- Programming Certifications — Python, Java, PHP, HTML, CSS, Git
+
+---
+
+## Featured Projects
+
+### Pentester Guide
+
+Comprehensive offensive security knowledgebase covering:
+
+- Web Security
+- API Security
+- Active Directory
+- Privilege Escalation
+- Red Team Methodology
+- Reconnaissance
+- Attack Chains
+- Security Tooling
+
 ➡️ https://github.com/ZishanAdThandar/pentest
 
-### 🔹 WebsiteDorkerPro
-Automated OSINT & reconnaissance tool  
+---
+
+### HackerProxyPro
+
+Firefox extension for rapid Burp Suite / TOR proxy switching.
+
+➡️ https://github.com/ZishanAdThandar/HackerProxyPro
+
+---
+
+### Hackify
+
+Automated pentesting environment setup toolkit.
+
+➡️ https://github.com/ZishanAdThandar/hackify
+
+---
+
+### WebsiteDorkerPro
+
+OSINT and reconnaissance automation utility.
+
 ➡️ https://github.com/ZishanAdThandar/WebsiteDorkerPro
 
 ---
 
-## 🌐 Work With Me
+## Practical Security Resources
 
-Available for limited-scope security engagements.
+### Bug Bounty Web Security Checklist
 
-- **Services:** https://zishanhack.com/services  
-- **Portfolio:** https://zishanhack.com/about  
-- **Links:** https://zishanhack.com/links  
+Real-world testing methodology covering:
+
+- Authentication Testing
+- Access Control
+- SSRF
+- Business Logic Flaws
+- API Security
+- Injection Testing
+- Reconnaissance
+
+➡️ https://zishanhack.com/products/web-security-checklist
+
+---
+
+### CRTA Red Team Notes
+
+Windows & Active Directory focused red team notes.
+
+➡️ https://zishanhack.com/products/crta
+
+---
+
+### OSCP Obsidian Notes
+
+Structured OSCP-oriented penetration testing notes.
+
+➡️ https://zishanhack.com/products/oscp-bundle
+
+---
+
+### OSWP Notes
+
+Wireless security & Wi-Fi exploitation notes.
+
+➡️ https://zishanhack.com/products/oswp-notes
+
+---
+
+## Security Services
+
+Available for limited-scope offensive security engagements.
+
+### Services
+
+- Web Application Penetration Testing
+- API Security Reviews
+- Active Directory Assessments
+- Authentication Security Testing
+- Security Validation Before Production Releases
+
+### Links
+
+- Services → https://zishanhack.com/services
+- About → https://zishanhack.com/about
+- Links → https://zishanhack.com/links
+
+---
+
+## Current Focus Areas
+
+- API Security Research
+- Authentication Attack Paths
+- Active Directory Methodology
+- Security Automation
+- Offensive Security Documentation
+- Real-World Exploitation Techniques
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=600&lines=Secure+Session+Ended...;Audit+Logs+Saved...;Connection+Closed.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=520&lines=Manual-first+security+testing;Built+around+real-world+attack+paths;Focused+on+security+research+and+impact">
 </p>
 
 <p align="center">
-  <span style="color:#00ff88; font-weight:600;">
-    Built for real-world security · Focused on impact · Designed for trust
-  </span>
+  <sub>
+    Built around offensive security research, practical methodology, and real-world testing.
+  </sub>
 </p>
+```
 
-<p align="center">
-⭐ Star & Follow to support ongoing tools, research, and releases
-</p>
+---
+
+# Why This Version Is Stronger
+
+## Removed Anything Difficult To Verify
+
+Removed:
+
+* “Top 5% THM”
+* “Top 10 HTB”
+* “500+ professionals”
+* exaggerated marketing phrases
+* unverifiable claims
+
+Because high-end security branding relies more on:
+
+* demonstrated expertise
+* research
+* structure
+* professionalism
+
+than hype.
+
+---
+
+# Why This Feels More Premium
+
+This version improves:
+
+* visual hierarchy
+* spacing
+* enterprise trust
+* readability
+* authenticity
+* professionalism
+* consulting positioning
+
+while still preserving:
+
+* offensive security identity
+* cyber aesthetic
+* technical authority
+* personal branding
+
+---
+
+# Next-Level Upgrades After This
+
+The README is no longer the bottleneck.
+
+Your next growth multiplier is:
+
+1. Publish security research
+2. Add attack diagrams
+3. Add sample reports
+4. Add writeups
+5. Improve website polish
+6. Build flagship research repository
+7. Create technical blog posts
+
+That is what separates:
+
+* polished profiles
+  from
+* recognized offensive security authorities.
