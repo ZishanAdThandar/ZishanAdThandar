@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity%20Consultant-ffff88?style=for-the-badge&logo=kalilinux&logoColor=00ff88">
   <img src="https://img.shields.io/badge/Web%20%26%20API%20Pentesting-ffeaff?style=for-the-badge&logo=windows-terminal&logoColor=00eaff">
-  <img src="https://img.shields.io/badge/Offensive%20Security%20Researcher-ff00ff?style=for-the-badge&logo=microsoft&logoColor=ff00ff">
+  <img src="https://img.shields.io/badge/Offensive%20Security%20Researcher-ffffff?style=for-the-badge&logo=microsoft&logoColor=ff00ff">
 </p>
 
 
