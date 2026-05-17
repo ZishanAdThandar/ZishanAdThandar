@@ -8,17 +8,15 @@
 
 ---
 
-## ⚡ Cyberpunk Skill Badges
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity%20Consultant-Expert-00ff88?style=for-the-badge&logo=kalilinux&logoColor=00ff88">
+  <img src="https://img.shields.io/badge/Cybersecurity%20Consultant-00ff88?style=for-the-badge&logo=kalilinux&logoColor=00ff88">
   <img src="https://img.shields.io/badge/Web%20%26%20API%20Pentesting-00eaff?style=for-the-badge&logo=windows-terminal&logoColor=00eaff">
-  <img src="https://img.shields.io/badge/Offensive%20Security-Researcher-ff00ff?style=for-the-badge&logo=microsoft&logoColor=ff00ff">
+  <img src="https://img.shields.io/badge/Offensive%20Security%20Researcher-ff00ff?style=for-the-badge&logo=microsoft&logoColor=ff00ff">
 </p>
 
 ---
 
-## 🧩 About Me
+## 🧩 whoami ?
 
 I am a **Cybersecurity Consultant and Offensive Security Specialist** with 7+ years of real-world experience helping organizations identify and remediate **high-impact security vulnerabilities** using real attacker techniques before they are abused in the wild.
 
