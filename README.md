@@ -11,11 +11,9 @@
 ## ⚡ Cyberpunk Skill Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bug%20Bounty-150%2B%20Findings-00ffaa?style=for-the-badge&logo=hackerone&logoColor=00ffaa">
   <img src="https://img.shields.io/badge/Cybersecurity%20Consultant-Expert-00ff88?style=for-the-badge&logo=kalilinux&logoColor=00ff88">
   <img src="https://img.shields.io/badge/Web%20%26%20API%20Pentesting-Specialist-00eaff?style=for-the-badge&logo=windows-terminal&logoColor=00eaff">
   <img src="https://img.shields.io/badge/Active%20Directory-Exploitation-ff00ff?style=for-the-badge&logo=microsoft&logoColor=ff00ff">
-  <img src="https://img.shields.io/badge/CTF-Top%205%25%20TryHackMe-00ffcc?style=for-the-badge&logo=tryhackme&logoColor=00ffcc">
 </p>
 
 ---
