@@ -6,15 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Consultant+%26+Pentester;Web+%26+API+Security+Specialist;Bug+Bounty+Hunter+(150%2B+Valid+Findings);Active+Directory+Security+Testing;Security+Tools+Used+by+500%2B+Professionals;Helping+Companies+Prevent+Security+Breaches">
 </p>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity%20Consultant-00ff88?style=for-the-badge&logo=kalilinux&logoColor=00ff88">
-  <img src="https://img.shields.io/badge/Web%20%26%20API%20Pentesting-00eaff?style=for-the-badge&logo=windows-terminal&logoColor=00eaff">
+  <img src="https://img.shields.io/badge/Cybersecurity%20Consultant-ffff88?style=for-the-badge&logo=kalilinux&logoColor=00ff88">
+  <img src="https://img.shields.io/badge/Web%20%26%20API%20Pentesting-ffeaff?style=for-the-badge&logo=windows-terminal&logoColor=00eaff">
   <img src="https://img.shields.io/badge/Offensive%20Security%20Researcher-ff00ff?style=for-the-badge&logo=microsoft&logoColor=ff00ff">
 </p>
 
----
 
 ## 🧩 whoami ?
 
