@@ -197,9 +197,9 @@ Available for limited-scope offensive security engagements.
 
 ### Links
 
-- Services → https://zishanhack.com/services
-- About → https://zishanhack.com/about
-- Links → https://zishanhack.com/links
+- Services → https://zishanhack.com/services/
+- About → https://zishanhack.com/about/
+- Links → https://zishanhack.com/links/
 
 ---
 
