@@ -155,7 +155,7 @@ Real-world testing methodology covering:
 - Injection Testing
 - Reconnaissance
 
-➡️ https://zishanhack.com/products/web-security-checklist
+➡️ https://zishanhack.com/
 
 ---
 
@@ -163,7 +163,7 @@ Real-world testing methodology covering:
 
 Windows & Active Directory focused red team notes.
 
-➡️ https://zishanhack.com/products/crta
+➡️ https://zishanhack.com/
 
 ---
 
@@ -171,7 +171,7 @@ Windows & Active Directory focused red team notes.
 
 Structured OSCP-oriented penetration testing notes.
 
-➡️ https://zishanhack.com/products/oscp-bundle
+➡️ https://zishanhack.com/
 
 ---
 
@@ -179,7 +179,7 @@ Structured OSCP-oriented penetration testing notes.
 
 Wireless security & Wi-Fi exploitation notes.
 
-➡️ https://zishanhack.com/products/oswp-notes
+➡️ https://zishanhack.com/
 
 ---
 
