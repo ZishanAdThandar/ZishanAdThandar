@@ -8,8 +8,7 @@
   
 ## Offensive Security Research & Consulting
 
-I specialize in attacker-driven security assessments focused on identifying real-world attack paths across modern web applications, APIs, authentication systems, and Active Directory environments. My work covers web application penetration testing, API security assessments, authentication and access control testing, Active Directory security reviews, privilege escalation, internal reconnaissance, security research, and methodology development. I prefer manual testing methodologies designed to uncover high-impact vulnerabilities and attack paths that are often missed by automated security tooling.
-
+I specialize in attacker-driven IT security assessments that uncover real-world attack paths across web applications, APIs, and Active Directory environments. By prioritizing manual exploitation over automated scanners, I identify high-impact vulnerabilities to help organizations proactively harden their defensive posture. My current work bridges offensive research and defensive resilience, focusing on API security, authentication flaws, and AD methodology, while leveraging AI and security automation to drive better mitigation strategies.
 
 ## Skills
 
