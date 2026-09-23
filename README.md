@@ -20,9 +20,7 @@ I specialize in attacker-driven IT security assessments that uncover real-world 
 
 ## Responsible Disclosure
 
-Recognized by organizations including:
-
-Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.com • EC-Council • GeeksForGeeks • PostNL • EUR.nl
+Recognized by organizations including: Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.com • EC-Council • GeeksForGeeks • PostNL • EUR.nl
 
 
 
@@ -43,7 +41,7 @@ Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.
 
 
 
-## Practical Security Resources
+## Products and Services
 
 - **[Ultimate Web Security Checklist for Bug Hunters](https://zishanhack.com/#resources):** Web security and bug bounty hunting checklist.
 - **[CRTA Red Team Notes](https://zishanhack.com/#resources):** Windows & Active Directory focused red team notes.
