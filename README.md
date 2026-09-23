@@ -6,7 +6,7 @@
 <a href="https://zishanhack.com/about/"><img src="https://img.shields.io/badge/About_Me-0f172b?style=for-the-badge&logo=z.ai&logoColor=7761f4" alt="About Me"></a>
 </p>
   
-## IT Security Automation, Research and Consultancy
+## IT Security Research and Automation Consultant
 
 I specialize in attacker-driven IT security assessments that uncover real-world attack paths across web applications, APIs, and Active Directory environments. By prioritizing manual exploitation over automated scanners, I identify high-impact vulnerabilities to help organizations proactively harden their defensive posture. My current work bridges offensive research and defensive resilience, focusing on API security, authentication flaws, and AD methodology, while leveraging AI and security automation to drive better mitigation strategies.
 
