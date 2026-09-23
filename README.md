@@ -54,7 +54,7 @@ Recognized by organizations including: Google • Oracle • AOL • Xiaomi • 
 - Authentication Security Testing
 - Security Validation Before Production Releases
 
-### [View Services](https://zishanhack.com/services/) | [About Me](https://zishanhack.com/about/) | [All Links](https://zishanhack.com/links/)
+### [View Services](https://zishanhack.com/services/) | [View Products](https://zishanhack.com/#resources) | [Resume](https://zishanhack.com/about/resume)
 
 <sub>Built around IT security research, practical methodology, and real-world testing.</sub>
 
