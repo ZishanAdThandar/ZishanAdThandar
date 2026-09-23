@@ -14,7 +14,7 @@ I specialize in attacker-driven IT security assessments that uncover real-world 
 - **Offensive Security:** Web Pentesting, API Security, Active Directory, Privilege Escalation, Authentication Testing, Access Control Reviews, Business Logic Testing, Reconnaissance
 - **Tooling & Platforms:** Burp Suite, Nmap, BloodHound, Impacket, CME, Nessus, Metasploit, Nuclei, Hydra, John the Ripper
 - **Familiar OS:** Kali, Arch, Debian, Ubuntu, Mint, POP OS, Windows
-- **Programming & Scripting:** Python, Bash, JavaScript, PHP, MySQL, HTML/CSS
+- **Coding & Development Certifications:** Python, Bash, JavaScript, PHP, MySQL, HTML/CSS
 
 
 
