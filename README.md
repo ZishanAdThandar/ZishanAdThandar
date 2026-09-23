@@ -13,7 +13,7 @@
   <a href="https://github.com/ZishanAdThandar/pentest">
     <img src="https://img.shields.io/badge/Pentester_Guide-fffff8?style=for-the-badge&logo=github&logoColor=111111">
   </a>
-  <a href="https://zishanhack.com/services">
+  <a href="https://zishanhack.com/services/">
     <img src="https://img.shields.io/badge/Security_Services-fffff8?style=for-the-badge&logo=circle&logoColor=111111">
   </a>
 </p>
@@ -102,7 +102,7 @@ Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.
 
 ### Pentester Guide
 
-Comprehensive offensive security knowledgebase covering:
+Comprehensive offensive security knowledge base covering:
 
 - Web Security
 - API Security
@@ -159,27 +159,10 @@ Real-world testing methodology covering:
 
 ---
 
-### CRTA Red Team Notes
-
-Windows & Active Directory focused red team notes.
-
-➡️ https://zishanhack.com/
-
----
-
-### OSCP Obsidian Notes
-
-Structured OSCP-oriented penetration testing notes.
-
-➡️ https://zishanhack.com/
-
----
-
-### OSWP Notes
-
-Wireless security & Wi-Fi exploitation notes.
-
-➡️ https://zishanhack.com/
+- ### [CRTA Red Team Notes](https://zishanhack.com/#resources): Windows & Active Directory focused red team notes.
+- ### [OSCP Obsidian Notes](https://zishanhack.com/#resources): Structured OSCP-oriented penetration testing notes.
+- ### [OSWP Notes](https://zishanhack.com/#resources): Wireless security & Wi-Fi exploitation notes.
+- ### [Ultimate Web Security Checklist](https://zishanhack.com/#resources): Web security and bug bounty hunting checklist.
 
 ---
 
