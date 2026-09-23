@@ -8,9 +8,6 @@
   <a href="https://zishanhack.com">
     <img src="https://img.shields.io/badge/Website-fffff8?style=for-the-badge&logo=firefoxbrowser&logoColor=111111" alt="Website">
   </a>
-  <a href="https://github.com/ZishanAdThandar/pentest">
-    <img src="https://img.shields.io/badge/Pentester_Guide-fffff8?style=for-the-badge&logo=github&logoColor=111111" alt="Pentester Guide">
-  </a>
   <a href="https://zishanhack.com/services/">
     <img src="https://img.shields.io/badge/Security_Services-fffff8?style=for-the-badge&logo=circle&logoColor=111111" alt="Security Services">
   </a>
@@ -20,10 +17,10 @@
     <img src="https://img.shields.io/badge/ZishanHack-0f172b?style=for-the-badge&logo=adguard&logoColor=7761f4" alt="ZishanHack.com">
   </a>
   <a href="https://zishanhack.com/links/">
-    <img src="" alt="https://img.shields.io/badge/LinkTree-0f172b?style=for-the-badge&logo=linktree&logoColor=7761f4">
+    <img src="https://img.shields.io/badge/LinkTree-0f172b?style=for-the-badge&logo=linktree&logoColor=7761f4" alt="LinkTree">
   </a>
   <a href="https://zishanhack.com/about/">
-    <img src="" alt="https://img.shields.io/badge/AboutMe-0f172b?style=for-the-badge">
+    <img src="https://img.shields.io/badge/AboutMe-0f172b?style=for-the-badge" alt="About Me">
   </a>
   
 ## Offensive Security Research & Consulting
