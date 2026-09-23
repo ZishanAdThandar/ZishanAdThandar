@@ -35,9 +35,9 @@ Recognized by organizations including: Google • Oracle • AOL • Xiaomi • 
 ## Featured Projects
 
 - **[Pentester Guide](https://github.com/ZishanAdThandar/pentest):** Comprehensive offensive security knowledge base. Web: [guide.zishanhack.com](https://guide.zishanhack.com/)
-- **[HackerProxyPro](https://github.com/ZishanAdThandar/HackerProxyPro):** Firefox addon for rapid Burp Suite / TOR switching. [Install Here](https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/)
+- **[HackerProxyPro](https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/):** Lite weight browser addon for rapid Burp Suite / TOR switching.
 - **[Hackify](https://github.com/ZishanAdThandar/hackify):** Automated pentesting environment setup toolkit for Debian bases OS.
-- **[WebsiteDorkerPro](https://github.com/ZishanAdThandar/WebsiteDorkerPro):** OSINT and reconnaissance automation utility coded in Python. [Install Here](https://pypi.org/project/website-dorker-pro/)
+- **[WebsiteDorkerPro](https://pypi.org/project/website-dorker-pro/):** OSINT and reconnaissance automation utility coded in Python.
 - **[CyberTerminus Browser Theme](https://addons.mozilla.org/en-US/firefox/addon/zishanadthandar-cyberterminus/):** Green on Black browser theme.
 - **[Soft Dark Browser Theme](https://addons.mozilla.org/en-US/firefox/addon/soft-dark-zishanadthandar/):** Browser theme for comfort of eyes.
 
