@@ -1,19 +1,18 @@
 # Zishan Ahamed Thandar
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=00FF88&center=true&vCenter=true&width=820&lines=Offensive+Security+Researcher;Web+%26+API+Security+Assessments;Active+Directory+Security+Testing;Security+Research+%26+Open-Source+Tooling;Manual-First+Pentesting+Methodology">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=00FF88&center=true&vCenter=true&width=820&lines=Offensive+Security+Researcher;Web+%26+API+Security+Assessments;Active+Directory+Security+Testing;Security+Research+%26+Open-Source+Tooling;Manual-First+Pentesting+Methodology" alt="Typing SVG">
 </p>
 
 <p align="center">
   <a href="https://zishanhack.com">
-    <img src="https://img.shields.io/badge/Website-fffff8?style=for-the-badge&logo=firefoxbrowser&logoColor=111111">
+    <img src="https://img.shields.io/badge/Website-fffff8?style=for-the-badge&logo=firefoxbrowser&logoColor=111111" alt="Website">
   </a>
   <a href="https://github.com/ZishanAdThandar/pentest">
-    <img src="https://img.shields.io/badge/Pentester_Guide-fffff8?style=for-the-badge&logo=github&logoColor=111111">
+    <img src="https://img.shields.io/badge/Pentester_Guide-fffff8?style=for-the-badge&logo=github&logoColor=111111" alt="Pentester Guide">
   </a>
   <a href="https://zishanhack.com/services/">
-    <img src="https://img.shields.io/badge/Security_Services-fffff8?style=for-the-badge&logo=circle&logoColor=111111">
+    <img src="https://img.shields.io/badge/Security_Services-fffff8?style=for-the-badge&logo=circle&logoColor=111111" alt="Security Services">
   </a>
 </p>
 
@@ -27,10 +26,10 @@ I specialize in attacker-driven security assessments focused on identifying real
 
 ## Core Expertise
 
-- ### Offensive Security: Web Pentesting, API Security, Active Directory, Privilege Escalation, Authentication Testing, Access Control Reviews, Business Logic Testing, Reconnaissance
-- ### Tooling & Platforms: Burp Suite, Nmap, BloodHound, Impacket, CrackMapExec, Nessus, Metasploit, Nuclei, Hydra, John the Ripper
-- ### Operating Systems: Kali Linux, Arch Linux, Debian, Ubuntu, Windows
-- ### Programming & Scripting: Python, Bash, JavaScript, PHP, MySQL, HTML/CSS
+- **Offensive Security:** Web Pentesting, API Security, Active Directory, Privilege Escalation, Authentication Testing, Access Control Reviews, Business Logic Testing, Reconnaissance
+- **Tooling & Platforms:** Burp Suite, Nmap, BloodHound, Impacket, CrackMapExec, Nessus, Metasploit, Nuclei, Hydra, John the Ripper
+- **Operating Systems:** Kali Linux, Arch Linux, Debian, Ubuntu, Windows
+- **Programming & Scripting:** Python, Bash, JavaScript, PHP, MySQL, HTML/CSS
 
 ---
 
@@ -52,19 +51,19 @@ Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.
 
 ## Featured Projects
 
-- ### [Pentester Guide](https://github.com/ZishanAdThandar/pentest): Comprehensive offensive security knowledge base covering. Web: [https://guide.zishanhack.com/](https://guide.zishanhack.com/)
-- ### [HackerProxyPro](https://github.com/ZishanAdThandar/HackerProxyPro): Firefox extension for rapid Burp Suite / TOR proxy switching. Install: [https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/](https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/)
-- ### [Hackify](https://github.com/ZishanAdThandar/hackify): Automated pentesting environment setup toolkit.
-- ### [WebsiteDorkerPro](https://github.com/ZishanAdThandar/WebsiteDorkerPro): OSINT and reconnaissance automation utility.
+- **[Pentester Guide](https://github.com/ZishanAdThandar/pentest):** Comprehensive offensive security knowledge base. Web: [guide.zishanhack.com](https://guide.zishanhack.com/)
+- **[HackerProxyPro](https://github.com/ZishanAdThandar/HackerProxyPro):** Firefox extension for rapid Burp Suite / TOR proxy switching. [Install Here](https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/)
+- **[Hackify](https://github.com/ZishanAdThandar/hackify):** Automated pentesting environment setup toolkit.
+- **[WebsiteDorkerPro](https://github.com/ZishanAdThandar/WebsiteDorkerPro):** OSINT and reconnaissance automation utility.
 
 ---
 
 ## Practical Security Resources
 
-- ### [Ultimate Web Security Checklist for Bug Hunters](https://zishanhack.com/#resources): Web security and bug bounty hunting checklist.
-- ### [CRTA Red Team Notes](https://zishanhack.com/#resources): Windows & Active Directory focused red team notes.
-- ### [OSCP Obsidian Notes](https://zishanhack.com/#resources): Structured OSCP-oriented penetration testing notes.
-- ### [OSWP Notes](https://zishanhack.com/#resources): Wireless security & Wi-Fi exploitation notes.
+- **[Ultimate Web Security Checklist for Bug Hunters](https://zishanhack.com/#resources):** Web security and bug bounty hunting checklist.
+- **[CRTA Red Team Notes](https://zishanhack.com/#resources):** Windows & Active Directory focused red team notes.
+- **[OSCP Obsidian Notes](https://zishanhack.com/#resources):** Structured OSCP-oriented penetration testing notes.
+- **[OSWP Notes](https://zishanhack.com/#resources):** Wireless security & Wi-Fi exploitation notes.
 
 ---
 
@@ -72,17 +71,13 @@ Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.
 
 Available for limited-scope offensive security engagements.
 
-### Services
-
 - Web Application Penetration Testing
 - API Security Reviews
 - Active Directory Assessments
 - Authentication Security Testing
 - Security Validation Before Production Releases
 
-## Links
-
-### [Services](https://zishanhack.com/services/) | [About](https://zishanhack.com/about/) | [Links](https://zishanhack.com/links/) 
+**[View Services](https://zishanhack.com/services/) | [About Me](https://zishanhack.com/about/) | [All Links](https://zishanhack.com/links/)**
 
 ---
 
@@ -98,11 +93,9 @@ Available for limited-scope offensive security engagements.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=520&lines=Manual-first+security+testing;Built+around+real-world+attack+paths;Focused+on+security+research+and+impact">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=520&lines=Manual-first+security+testing;Built+around+real-world+attack+paths;Focused+on+security+research+and+impact" alt="Philosophy SVG">
 </p>
 
 <p align="center">
-  <sub>
-    Built around offensive security research, practical methodology, and real-world testing.
-  </sub>
+  <sub>Built around offensive security research, practical methodology, and real-world testing.</sub>
 </p>
