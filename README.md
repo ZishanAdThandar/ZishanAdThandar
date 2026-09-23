@@ -56,7 +56,5 @@ Recognized by organizations including: Google • Oracle • AOL • Xiaomi • 
 
 ### [View Services](https://zishanhack.com/services/) | [About Me](https://zishanhack.com/about/) | [All Links](https://zishanhack.com/links/)
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=520&lines=Manual-first+security+testing;Built+around+real-world+attack+paths;Focused+on+security+research+and+impact" alt="Philosophy SVG">
-
 <sub>Built around IT security research, practical methodology, and real-world testing.</sub>
 
