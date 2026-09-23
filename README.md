@@ -16,8 +16,16 @@
   </a>
 </p>
 
-
-
+  <a href="https://zishanhack.com/">
+    <img src="https://img.shields.io/badge/ZishanHack-0f172b?style=for-the-badge&logo=adguard&logoColor=7761f4" alt="ZishanHack.com">
+  </a>
+  <a href="https://zishanhack.com/links/">
+    <img src="" alt="https://img.shields.io/badge/LinkTree-0f172b?style=for-the-badge&logo=linktree&logoColor=7761f4">
+  </a>
+  <a href="https://zishanhack.com/about/">
+    <img src="" alt="https://img.shields.io/badge/AboutMe-0f172b?style=for-the-badge">
+  </a>
+  
 ## Offensive Security Research & Consulting
 
 I specialize in attacker-driven security assessments focused on identifying real-world attack paths across modern web applications, APIs, authentication systems, and Active Directory environments. My work covers web application penetration testing, API security assessments, authentication and access control testing, Active Directory security reviews, privilege escalation, internal reconnaissance, security research, and methodology development. I prefer manual testing methodologies designed to uncover high-impact vulnerabilities and attack paths that are often missed by automated security tooling.
