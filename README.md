@@ -100,44 +100,10 @@ Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.
 
 ## Featured Projects
 
-### Pentester Guide
-
-Comprehensive offensive security knowledge base covering:
-
-- Web Security
-- API Security
-- Active Directory
-- Privilege Escalation
-- Red Team Methodology
-- Reconnaissance
-- Attack Chains
-- Security Tooling
-
-➡️ https://github.com/ZishanAdThandar/pentest
-
----
-
-### HackerProxyPro
-
-Firefox extension for rapid Burp Suite / TOR proxy switching.
-
-➡️ https://github.com/ZishanAdThandar/HackerProxyPro
-
----
-
-### Hackify
-
-Automated pentesting environment setup toolkit.
-
-➡️ https://github.com/ZishanAdThandar/hackify
-
----
-
-### WebsiteDorkerPro
-
-OSINT and reconnaissance automation utility.
-
-➡️ https://github.com/ZishanAdThandar/WebsiteDorkerPro
+- #### [Pentester Guide](https://github.com/ZishanAdThandar/pentest): Comprehensive offensive security knowledge base covering. Web: [https://guide.zishanhack.com/](https://guide.zishanhack.com/)
+- #### [HackerProxyPro](https://github.com/ZishanAdThandar/HackerProxyPro): Firefox extension for rapid Burp Suite / TOR proxy switching. Install: [https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/](https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/)
+- #### [Hackify](https://github.com/ZishanAdThandar/hackify): Automated pentesting environment setup toolkit.
+- #### [WebsiteDorkerPro](https://github.com/ZishanAdThandar/WebsiteDorkerPro): OSINT and reconnaissance automation utility.
 
 ---
 
