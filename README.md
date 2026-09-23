@@ -14,8 +14,8 @@ I specialize in attacker-driven security assessments focused on identifying real
 ## Skills
 
 - **Offensive Security:** Web Pentesting, API Security, Active Directory, Privilege Escalation, Authentication Testing, Access Control Reviews, Business Logic Testing, Reconnaissance
-- **Tooling & Platforms:** Burp Suite, Nmap, BloodHound, Impacket, CrackMapExec, Nessus, Metasploit, Nuclei, Hydra, John the Ripper
-- **Familiar OS:** Kali Linux, Arch Linux, Debian, Ubuntu, Linux Mint, POP OS, Windows
+- **Tooling & Platforms:** Burp Suite, Nmap, BloodHound, Impacket, CME, Nessus, Metasploit, Nuclei, Hydra, John the Ripper
+- **Familiar OS:** Kali, Arch, Debian, Ubuntu, Mint, POP OS, Windows
 - **Programming & Scripting:** Python, Bash, JavaScript, PHP, MySQL, HTML/CSS
 
 
@@ -39,7 +39,7 @@ Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.
 ## Featured Projects
 
 - **[Pentester Guide](https://github.com/ZishanAdThandar/pentest):** Comprehensive offensive security knowledge base. Web: [guide.zishanhack.com](https://guide.zishanhack.com/)
-- **[HackerProxyPro](https://github.com/ZishanAdThandar/HackerProxyPro):** Firefox extension for rapid Burp Suite / TOR proxy switching. [Install Here](https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/)
+- **[HackerProxyPro](https://github.com/ZishanAdThandar/HackerProxyPro):** Firefox addon for rapid Burp Suite / TOR switching. [Install Here](https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/)
 - **[Hackify](https://github.com/ZishanAdThandar/hackify):** Automated pentesting environment setup toolkit.
 - **[WebsiteDorkerPro](https://github.com/ZishanAdThandar/WebsiteDorkerPro):** OSINT and reconnaissance automation utility.
 
@@ -70,6 +70,7 @@ Available for limited-scope offensive security engagements.
 
 ## Current Focus Areas
 
+- AI Automation
 - API Security Research
 - Authentication Attack Paths
 - Active Directory Methodology
