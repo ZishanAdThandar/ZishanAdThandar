@@ -1,19 +1,9 @@
 <h1 align="center"> Zishan Ahamed Thandar </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=00FF88&center=true&vCenter=true&width=820&lines=Offensive+Security+Researcher;Web+%26+API+Security+Assessments;Active+Directory+Security+Testing;Security+Research+%26+Open-Source+Tooling;Manual-First+Pentesting+Methodology" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <a href="https://zishanhack.com/">
-    <img src="https://img.shields.io/badge/ZishanHack-0f172b?style=for-the-badge&logo=adguard&logoColor=7761f4" alt="ZishanHack.com">
-  </a>
-  <a href="https://zishanhack.com/links/">
-    <img src="https://img.shields.io/badge/LinkTree-0f172b?style=for-the-badge&logo=linktree&logoColor=7761f4" alt="LinkTree">
-  </a>
-  <a href="https://zishanhack.com/about/">
-    <img src="https://img.shields.io/badge/About_Me-0f172b?style=for-the-badge&logo=z.ai&logoColor=7761f4" alt="About Me">
-  </a>
+<a href="https://zishanhack.com/"><img src="https://img.shields.io/badge/ZishanHack-0f172b?style=for-the-badge&logo=adguard&logoColor=7761f4" alt="ZishanHack.com"></a>
+<a href="https://zishanhack.com/links/"><img src="https://img.shields.io/badge/LinkTree-0f172b?style=for-the-badge&logo=linktree&logoColor=7761f4" alt="LinkTree"></a>
+<a href="https://zishanhack.com/about/"><img src="https://img.shields.io/badge/About_Me-0f172b?style=for-the-badge&logo=z.ai&logoColor=7761f4" alt="About Me"></a>
 </p>
   
 ## Offensive Security Research & Consulting
@@ -21,12 +11,11 @@
 I specialize in attacker-driven security assessments focused on identifying real-world attack paths across modern web applications, APIs, authentication systems, and Active Directory environments. My work covers web application penetration testing, API security assessments, authentication and access control testing, Active Directory security reviews, privilege escalation, internal reconnaissance, security research, and methodology development. I prefer manual testing methodologies designed to uncover high-impact vulnerabilities and attack paths that are often missed by automated security tooling.
 
 
-
-## Core Expertise
+## Skills
 
 - **Offensive Security:** Web Pentesting, API Security, Active Directory, Privilege Escalation, Authentication Testing, Access Control Reviews, Business Logic Testing, Reconnaissance
 - **Tooling & Platforms:** Burp Suite, Nmap, BloodHound, Impacket, CrackMapExec, Nessus, Metasploit, Nuclei, Hydra, John the Ripper
-- **Operating Systems:** Kali Linux, Arch Linux, Debian, Ubuntu, Windows
+- **Familiar OS:** Kali Linux, Arch Linux, Debian, Ubuntu, Linux Mint, POP OS, Windows
 - **Programming & Scripting:** Python, Bash, JavaScript, PHP, MySQL, HTML/CSS
 
 
