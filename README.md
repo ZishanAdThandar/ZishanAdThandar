@@ -22,63 +22,16 @@
 
 ## Offensive Security Research & Consulting
 
-I specialize in attacker-driven security assessments focused on identifying real-world attack paths across modern web applications, APIs, authentication systems, and Active Directory environments.
-
-My work focuses on:
-
-- Web Application Penetration Testing
-- API Security Assessments
-- Authentication & Access Control Testing
-- Active Directory Security Reviews
-- Privilege Escalation & Internal Reconnaissance
-- Security Research & Methodology Development
-
-I prefer manual testing methodologies designed to uncover high-impact vulnerabilities often missed by automated tooling.
+I specialize in attacker-driven security assessments focused on identifying real-world attack paths across modern web applications, APIs, authentication systems, and Active Directory environments. My work covers web application penetration testing, API security assessments, authentication and access control testing, Active Directory security reviews, privilege escalation, internal reconnaissance, security research, and methodology development. I prefer manual testing methodologies designed to uncover high-impact vulnerabilities and attack paths that are often missed by automated security tooling.
 
 ---
 
 ## Core Expertise
 
-### Offensive Security
-
-`Web Pentesting`
-`API Security`
-`Active Directory`
-`Privilege Escalation`
-`Authentication Testing`
-`Access Control Reviews`
-`Business Logic Testing`
-`Reconnaissance`
-
-### Tooling & Platforms
-
-`Burp Suite`
-`Nmap`
-`BloodHound`
-`Impacket`
-`CrackMapExec`
-`Nessus`
-`Metasploit`
-`Nuclei`
-`Hydra`
-`John the Ripper`
-
-### Operating Systems
-
-`Kali Linux`
-`Arch Linux`
-`Debian`
-`Ubuntu`
-`Windows`
-
-### Programming & Scripting
-
-`Python`
-`Bash`
-`JavaScript`
-`PHP`
-`MySQL`
-`HTML/CSS`
+- ### Offensive Security: Web Pentesting, API Security, Active Directory, Privilege Escalation, Authentication Testing, Access Control Reviews, Business Logic Testing, Reconnaissance
+- ### Tooling & Platforms: Burp Suite, Nmap, BloodHound, Impacket, CrackMapExec, Nessus, Metasploit, Nuclei, Hydra, John the Ripper
+- ### Operating Systems: Kali Linux, Arch Linux, Debian, Ubuntu, Windows
+- ### Programming & Scripting: Python, Bash, JavaScript, PHP, MySQL, HTML/CSS
 
 ---
 
@@ -100,35 +53,19 @@ Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.
 
 ## Featured Projects
 
-- #### [Pentester Guide](https://github.com/ZishanAdThandar/pentest): Comprehensive offensive security knowledge base covering. Web: [https://guide.zishanhack.com/](https://guide.zishanhack.com/)
-- #### [HackerProxyPro](https://github.com/ZishanAdThandar/HackerProxyPro): Firefox extension for rapid Burp Suite / TOR proxy switching. Install: [https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/](https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/)
-- #### [Hackify](https://github.com/ZishanAdThandar/hackify): Automated pentesting environment setup toolkit.
-- #### [WebsiteDorkerPro](https://github.com/ZishanAdThandar/WebsiteDorkerPro): OSINT and reconnaissance automation utility.
+- ### [Pentester Guide](https://github.com/ZishanAdThandar/pentest): Comprehensive offensive security knowledge base covering. Web: [https://guide.zishanhack.com/](https://guide.zishanhack.com/)
+- ### [HackerProxyPro](https://github.com/ZishanAdThandar/HackerProxyPro): Firefox extension for rapid Burp Suite / TOR proxy switching. Install: [https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/](https://addons.mozilla.org/en-US/firefox/addon/hackerproxypro/)
+- ### [Hackify](https://github.com/ZishanAdThandar/hackify): Automated pentesting environment setup toolkit.
+- ### [WebsiteDorkerPro](https://github.com/ZishanAdThandar/WebsiteDorkerPro): OSINT and reconnaissance automation utility.
 
 ---
 
 ## Practical Security Resources
 
-### Bug Bounty Web Security Checklist
-
-Real-world testing methodology covering:
-
-- Authentication Testing
-- Access Control
-- SSRF
-- Business Logic Flaws
-- API Security
-- Injection Testing
-- Reconnaissance
-
-➡️ https://zishanhack.com/
-
----
-
+- ### [Ultimate Web Security Checklist for Bug Hunters](https://zishanhack.com/#resources): Web security and bug bounty hunting checklist.
 - ### [CRTA Red Team Notes](https://zishanhack.com/#resources): Windows & Active Directory focused red team notes.
 - ### [OSCP Obsidian Notes](https://zishanhack.com/#resources): Structured OSCP-oriented penetration testing notes.
 - ### [OSWP Notes](https://zishanhack.com/#resources): Wireless security & Wi-Fi exploitation notes.
-- ### [Ultimate Web Security Checklist](https://zishanhack.com/#resources): Web security and bug bounty hunting checklist.
 
 ---
 
