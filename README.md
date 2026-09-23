@@ -178,11 +178,9 @@ Available for limited-scope offensive security engagements.
 - Authentication Security Testing
 - Security Validation Before Production Releases
 
-### Links
+## Links
 
-- Services → https://zishanhack.com/services/
-- About → https://zishanhack.com/about/
-- Links → https://zishanhack.com/links/
+### [Services](https://zishanhack.com/services/) | [About](https://zishanhack.com/about/) | [Links](https://zishanhack.com/links/) 
 
 ---
 
