@@ -49,15 +49,7 @@ Recognized by organizations including: Google • Oracle • AOL • Xiaomi • 
 - **[CRTA Red Team Notes](https://zishanhack.com/#resources):** Windows & Active Directory focused red team notes.
 - **[OSCP Obsidian Notes](https://zishanhack.com/#resources):** Structured OSCP-oriented penetration testing notes.
 - **[OSWP Notes](https://zishanhack.com/#resources):** Wireless security & Wi-Fi exploitation notes.
-
-
-
-## Security Services
-
-Available for limited-scope offensive security engagements.
-
-- Web Application Penetration Testing
-- API Security Reviews
+- Web and Application Penetration Testing
 - Active Directory Assessments
 - Authentication Security Testing
 - Security Validation Before Production Releases
