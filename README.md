@@ -63,20 +63,7 @@ Available for limited-scope offensive security engagements.
 - Authentication Security Testing
 - Security Validation Before Production Releases
 
-**[View Services](https://zishanhack.com/services/) | [About Me](https://zishanhack.com/about/) | [All Links](https://zishanhack.com/links/)**
-
-
-
-## Current Focus Areas
-
-- AI Automation
-- API Security Research
-- Authentication Attack Paths
-- Active Directory Methodology
-- Security Automation
-- Offensive Security Documentation
-- Real-World Exploitation Techniques
-
+### [View Services](https://zishanhack.com/services/) | [About Me](https://zishanhack.com/about/) | [All Links](https://zishanhack.com/links/)
 
 
 <p align="center">
