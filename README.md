@@ -1,4 +1,4 @@
-# Zishan Ahamed Thandar
+<h1 align="center"> Zishan Ahamed Thandar <h1></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=00FF88&center=true&vCenter=true&width=820&lines=Offensive+Security+Researcher;Web+%26+API+Security+Assessments;Active+Directory+Security+Testing;Security+Research+%26+Open-Source+Tooling;Manual-First+Pentesting+Methodology" alt="Typing SVG">
