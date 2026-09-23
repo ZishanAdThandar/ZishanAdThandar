@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://zishanhack.com">
-    <img src="https://img.shields.io/badge/Website-fffff8?style=for-the-badge&logo=firefoxbrowser&logoColor=111111" alt="Website">
-  </a>
   <a href="https://zishanhack.com/services/">
     <img src="https://img.shields.io/badge/Security_Services-fffff8?style=for-the-badge&logo=circle&logoColor=111111" alt="Security Services">
   </a>
@@ -20,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkTree-0f172b?style=for-the-badge&logo=linktree&logoColor=7761f4" alt="LinkTree">
   </a>
   <a href="https://zishanhack.com/about/">
-    <img src="https://img.shields.io/badge/AboutMe-0f172b?style=for-the-badge" alt="About Me">
+    <img src="https://img.shields.io/badge/About_Me-0f172b?style=for-the-badge&logo=z.ai&logoColor=7761f4" alt="About Me">
   </a>
   
 ## Offensive Security Research & Consulting
