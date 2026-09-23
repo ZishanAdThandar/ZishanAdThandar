@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://zishanhack.com/"><img src="https://img.shields.io/badge/ZishanHack-0f172b?style=for-the-badge&logo=adguard&logoColor=7761f4" alt="ZishanHack.com"></a>
 <a href="https://zishanhack.com/links/"><img src="https://img.shields.io/badge/LinkTree-0f172b?style=for-the-badge&logo=linktree&logoColor=7761f4" alt="LinkTree"></a>
+<a href="https://zishanhack.com/about/"><img src="https://img.shields.io/badge/blog-0f172b?style=for-the-badge&logo=storyblok&logoColor=7761f4" alt="Blog"></a>
 <a href="https://zishanhack.com/about/"><img src="https://img.shields.io/badge/About_Me-0f172b?style=for-the-badge&logo=z.ai&logoColor=7761f4" alt="About Me"></a>
 </p>
   
