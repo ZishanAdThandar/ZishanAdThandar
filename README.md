@@ -16,13 +16,13 @@
   </a>
 </p>
 
----
+
 
 ## Offensive Security Research & Consulting
 
 I specialize in attacker-driven security assessments focused on identifying real-world attack paths across modern web applications, APIs, authentication systems, and Active Directory environments. My work covers web application penetration testing, API security assessments, authentication and access control testing, Active Directory security reviews, privilege escalation, internal reconnaissance, security research, and methodology development. I prefer manual testing methodologies designed to uncover high-impact vulnerabilities and attack paths that are often missed by automated security tooling.
 
----
+
 
 ## Core Expertise
 
@@ -31,7 +31,7 @@ I specialize in attacker-driven security assessments focused on identifying real
 - **Operating Systems:** Kali Linux, Arch Linux, Debian, Ubuntu, Windows
 - **Programming & Scripting:** Python, Bash, JavaScript, PHP, MySQL, HTML/CSS
 
----
+
 
 ## Responsible Disclosure
 
@@ -39,7 +39,7 @@ Recognized by organizations including:
 
 Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.com • EC-Council • GeeksForGeeks • PostNL • EUR.nl
 
----
+
 
 ## Certifications
 
@@ -47,7 +47,7 @@ Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.
 - C3SA — CyberWarFare Labs
 - Programming Certifications — Python, Java, PHP, HTML, CSS, Git
 
----
+
 
 ## Featured Projects
 
@@ -56,7 +56,7 @@ Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.
 - **[Hackify](https://github.com/ZishanAdThandar/hackify):** Automated pentesting environment setup toolkit.
 - **[WebsiteDorkerPro](https://github.com/ZishanAdThandar/WebsiteDorkerPro):** OSINT and reconnaissance automation utility.
 
----
+
 
 ## Practical Security Resources
 
@@ -65,7 +65,7 @@ Google • Oracle • AOL • Xiaomi • Zoho • Mail.ru • NCIIPC • Shaadi.
 - **[OSCP Obsidian Notes](https://zishanhack.com/#resources):** Structured OSCP-oriented penetration testing notes.
 - **[OSWP Notes](https://zishanhack.com/#resources):** Wireless security & Wi-Fi exploitation notes.
 
----
+
 
 ## Security Services
 
@@ -79,7 +79,7 @@ Available for limited-scope offensive security engagements.
 
 **[View Services](https://zishanhack.com/services/) | [About Me](https://zishanhack.com/about/) | [All Links](https://zishanhack.com/links/)**
 
----
+
 
 ## Current Focus Areas
 
@@ -90,7 +90,7 @@ Available for limited-scope offensive security engagements.
 - Offensive Security Documentation
 - Real-World Exploitation Techniques
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=520&lines=Manual-first+security+testing;Built+around+real-world+attack+paths;Focused+on+security+research+and+impact" alt="Philosophy SVG">
