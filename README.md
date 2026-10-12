@@ -45,10 +45,11 @@ Recognized by organizations including: Google • Oracle • AOL • Xiaomi • 
 
 ## Products and Services
 
-- **[Ultimate Web Security Checklist for Bug Hunters](https://zishanhack.com/#resources):** Web security and bug bounty hunting checklist.
-- **[CRTA Red Team Notes](https://zishanhack.com/#resources):** Windows & Active Directory focused red team notes.
-- **[OSCP Obsidian Notes](https://zishanhack.com/#resources):** Structured OSCP-oriented penetration testing notes.
-- **[OSWP Notes](https://zishanhack.com/#resources):** Wireless security & Wi-Fi exploitation notes.
+- **[Ultimate Web Security Checklist for Bug Hunters](https://zishanhack.com/products/web-security-checklist):** Web security and bug bounty hunting checklist.
+- **[CRTA Red Team Notes](https://zishanhack.com/products/crta):** Windows & Active Directory focused red team notes.
+- **[OSCP Obsidian Notes](https://zishanhack.com/products/oscp-bundle):** Structured OSCP-oriented penetration testing notes.
+- **[CPENT Obsidian Notes](https://zishanhack.com/products/cpent):** Structured CPENT-oriented penetration testing notes.
+- **[OSWP Notes](https://zishanhack.com/products/oswp-notes):** Wireless security & Wi-Fi exploitation notes.
 - Web and Application Penetration Testing
 - Active Directory Assessments
 - Authentication Security Testing
